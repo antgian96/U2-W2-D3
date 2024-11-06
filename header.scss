@@ -1,0 +1,43 @@
+.header {
+    background-color: white;
+    
+    padding: 10%;
+  
+    .navbar {
+      display: flex;
+      gap: 20px;
+    }
+  
+    .navbar-logo {
+      font-weight: bold;
+      font-size: xl;
+    }
+  }
+  
+  .hero {
+    display: flex;
+    padding: xxl;
+    background-color:white;
+  
+    .hero-content {
+      max-width: 50%;
+      
+    }
+  
+    .hero-title {
+      font-size: xxl;
+      font-weight: bold;
+    }
+  
+    .hero-buttons {
+      display: flex;
+      gap: 10%;
+    
+    }
+  
+    .hero-image {
+      max-width: 50%;
+      
+    }
+  }
+  

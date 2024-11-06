@@ -1,0 +1,13 @@
+.grid-container {
+  display: flex;
+  padding: 10%;
+}
+
+.grid-item {
+  background-color: #ffffff;
+  padding: md;
+  transition: transform 0.3s ease;
+}
+.grid-item:hover {
+  transform: translateY(-5px);
+}/*# sourceMappingURL=grid.css.map */

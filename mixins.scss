@@ -1,0 +1,32 @@
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  @mixin transition($property, $duration: 0.3s, $ease: ease-in-out) {
+    transition: $property $duration $ease;
+  }
+  
+  @mixin floating(
+    $radius: 8px,
+    $shadow: 0px 4px 12px rgba(0, 0, 0, 0.2),
+    $border: none
+  ) {
+    border-radius: $radius;
+    box-shadow: $shadow;
+    border: $border;
+  }
+  
+  @mixin grid($columns: 4) {
+    display: grid;
+    grid-template-columns: repeat($columns, 1fr);
+    gap: 20px;
+  }
+  
+  @mixin title-big {
+    font-size: $font-size-xxl;
+    font-weight: bold;
+    margin-bottom: $font-size-sm;
+  }
+  

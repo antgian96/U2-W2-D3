@@ -1,0 +1,32 @@
+.header {
+  background-color: white;
+  padding: 10%;
+}
+.header .navbar {
+  display: flex;
+  gap: 20px;
+}
+.header .navbar-logo {
+  font-weight: bold;
+  font-size: xl;
+}
+
+.hero {
+  display: flex;
+  padding: 10%;
+  background-color: white;
+}
+.hero .hero-content {
+  max-width: 50%;
+}
+.hero .hero-title {
+  font-size: xxl;
+  font-weight: bold;
+}
+.hero .hero-buttons {
+  display: flex;
+  gap: 10%;
+}
+.hero .hero-image {
+  max-width: 50%;
+}/*# sourceMappingURL=header.css.map */

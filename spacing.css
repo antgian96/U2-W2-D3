@@ -1,0 +1,95 @@
+.padding-block-sm {
+  padding-block: 4px;
+}
+
+.padding-inline-sm {
+  padding-inline: 4px;
+}
+
+.margin-block-sm {
+  margin-block: 4px;
+}
+
+.margin-inline-sm {
+  margin-inline: 4px;
+}
+
+.padding-block-normal {
+  padding-block: 8px;
+}
+
+.padding-inline-normal {
+  padding-inline: 8px;
+}
+
+.margin-block-normal {
+  margin-block: 8px;
+}
+
+.margin-inline-normal {
+  margin-inline: 8px;
+}
+
+.padding-block-md {
+  padding-block: 16px;
+}
+
+.padding-inline-md {
+  padding-inline: 16px;
+}
+
+.margin-block-md {
+  margin-block: 16px;
+}
+
+.margin-inline-md {
+  margin-inline: 16px;
+}
+
+.padding-block-lg {
+  padding-block: 24px;
+}
+
+.padding-inline-lg {
+  padding-inline: 24px;
+}
+
+.margin-block-lg {
+  margin-block: 24px;
+}
+
+.margin-inline-lg {
+  margin-inline: 24px;
+}
+
+.padding-block-xl {
+  padding-block: 32px;
+}
+
+.padding-inline-xl {
+  padding-inline: 32px;
+}
+
+.margin-block-xl {
+  margin-block: 32px;
+}
+
+.margin-inline-xl {
+  margin-inline: 32px;
+}
+
+.padding-block-xxl {
+  padding-block: 40px;
+}
+
+.padding-inline-xxl {
+  padding-inline: 40px;
+}
+
+.margin-block-xxl {
+  margin-block: 40px;
+}
+
+.margin-inline-xxl {
+  margin-inline: 40px;
+}/*# sourceMappingURL=spacing.css.map */
